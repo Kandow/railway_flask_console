@@ -1,0 +1,13 @@
+retry 
+lxml 
+wxpusher 
+apscheduler 
+requests 
+tzlocal 
+baidu-aip 
+gunicorn 
+flask 
+wxpusher
+opencv-python
+flask_sock
+subprocess
