@@ -10,4 +10,3 @@ flask
 wxpusher
 opencv-python
 flask_sock
-subprocess
