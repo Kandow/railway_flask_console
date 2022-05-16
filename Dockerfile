@@ -4,6 +4,6 @@ RUN sed -i 's/dl-cdn.alpinelinux.org/mirrors.ustc.edu.cn/g' /etc/apk/repositorie
 RUN apk update
 RUN apk add --no-cache python3 py3-flask
 ADD a.py /a.py
-EXPOSE 4040
+EXPOSE 8080
 
 ENTRYPOINT python3 /a.py
